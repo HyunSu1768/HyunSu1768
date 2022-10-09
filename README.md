@@ -10,7 +10,7 @@ I am studying algorithms in C language<div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunSu1768&show_icons=true&theme=radical)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=azxcv1768)](https://solved.ac/azxcv1768/)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=azxcv1768)
  <img src="http://mazandi.herokuapp.com/api?handle=azxcv1768&theme=warm"/>
  
  ### 🧑‍💻Studying
