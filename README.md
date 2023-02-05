@@ -15,7 +15,7 @@
 ![C](https://img.shields.io/badge/C-007396.svg?&style=for-the-badge&logo=C&logoColor=white)
  <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white"/>
  <img alt="Java" src ="https://img.shields.io/badge/Java-F7DF1E.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
-  <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
+  <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/>
   <br>
 ![The Algorithms](https://img.shields.io/badge/The%20Algorithms-00BCB4.svg?&style=for-the-badge&logo=The%20Algorithms&logoColor=white)
 
