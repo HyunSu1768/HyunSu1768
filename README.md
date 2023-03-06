@@ -1,4 +1,4 @@
-# Bu Hyun Su 😉
+# Bu Hyeon Su 😉
 # <div align=center>🙌INTRODUCTION<div>
 <div align=center>
  
