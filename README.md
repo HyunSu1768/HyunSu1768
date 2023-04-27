@@ -1,8 +1,6 @@
 # Boo Hyeon Su 😉
 # <div align=center>🙌INTRODUCTION<div>
 <div align=center>
- 백엔드 개발자가 되기 위해 열심히 공부하겠습니다!
- 
  
  <div>
   
