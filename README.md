@@ -1,7 +1,8 @@
 # Boo Hyeon Su 😉
-# <div align=center>🙌INTRODUCTION<div>
+# <div align=center>🙌INTRODUCTION <br> 아름다운 코드를 작성하는 백엔드 개발자가 되도록 노력하겠습니다.<div>
 <div align=center>
  
+
  <div>
   
 ### 👏Status
@@ -22,6 +23,5 @@
 
 ### 🖥 Social Media
   <a href="https://www.instagram.com/hyunsu._.1221/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyunsu._.1221//"/></a>
-  <a href="https://www.youtube.com/channel/UCvflNbK2JMkmIIeQyFsBLng"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCvflNbK2JMkmIIeQyFsBLng"/></a>
   
 
