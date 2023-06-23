@@ -20,6 +20,6 @@
 ![The Algorithms](https://img.shields.io/badge/The%20Algorithms-00BCB4.svg?&style=for-the-badge&logo=The%20Algorithms&logoColor=white)
 
 ### 🖥 Social Media
-  [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=hyunsu-dev)]([https://github.com/loosie/github-readme-tistory-card](https://hyunsu-dev.tistory.com/))
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=hyunsu-dev)](https://hyunsu-dev.tistory.com/)
     <a href="https://www.instagram.com/hyunsu._.1221/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyunsu._.1221//"/></a>
 
