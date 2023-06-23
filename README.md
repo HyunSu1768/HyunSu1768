@@ -1,5 +1,5 @@
 # Boo Hyeon Su 😉
-# <div align=center>🙌INTRODUCTION <br> 아름다운 코드를 작성하는 백엔드 개발자가 되도록 노력하겠습니다.<div>
+# <div align=center>🙌INTRODUCTION <br> 아름다운 코드를 작성하는 백엔드 개발자가 되도록 노력하겠습니다<div>
 <div align=center>
  
 
