@@ -1,12 +1,10 @@
 # Boo Hyeon Su 😉
 # <div align=center>🙌INTRODUCTION <br> 아름다운 코드를 작성하는 백엔드 개발자가 되도록 노력하겠습니다<div>
 <div align=center>
- 
 
  <div>
   
 ### 👏Status
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunSu1768&show_icons=true&theme=radical)
 
@@ -22,6 +20,6 @@
 ![The Algorithms](https://img.shields.io/badge/The%20Algorithms-00BCB4.svg?&style=for-the-badge&logo=The%20Algorithms&logoColor=white)
 
 ### 🖥 Social Media
-  <a href="https://www.instagram.com/hyunsu._.1221/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyunsu._.1221//"/></a>
-  
+  [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=hyunsu-dev)]([https://github.com/loosie/github-readme-tistory-card](https://hyunsu-dev.tistory.com/))
+    <a href="https://www.instagram.com/hyunsu._.1221/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyunsu._.1221//"/></a>
 
