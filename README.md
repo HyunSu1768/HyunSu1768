@@ -1,25 +1,8 @@
-# Boo Hyeon Su 😉
-# <div align=center>🙌INTRODUCTION <br> 데브옵스 엔지니어가 되기 위해 노력하고 있습니다<div>
-<div align=center>
+## Boo Hyeon Su 😉
+백엔드, 데브옵스를 공부하고 있는 부현수 입니다. <br>
+저는 항상 열정과 목표를 가지고 공부에 임하며 여러가지 기술을 사용해 보는것을 좋아합니다.
 
- <div>
-  
-### 👏Status
+My name is Hyeonsoo Boo, and I am studying backend and DevOps. <br>
+I always study with passion and purpose, and I like to try out different techniques.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunSu1768&show_icons=true&theme=radical)
-
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=azxcv1768)
- <img src="http://mazandi.herokuapp.com/api?handle=azxcv1768&theme=warm"/>
- 
- ### 🧑‍💻Studying
-![C](https://img.shields.io/badge/C-007396.svg?&style=for-the-badge&logo=C&logoColor=white)
- <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white"/>
- <img alt="Java" src ="https://img.shields.io/badge/Java-F7DF1E.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
-  <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/>
-  <br>
-![The Algorithms](https://img.shields.io/badge/The%20Algorithms-00BCB4.svg?&style=for-the-badge&logo=The%20Algorithms&logoColor=white)
-
-### 🖥 Social Media
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=hyunsu-dev)](https://hyunsu-dev.tistory.com/)
-    <a href="https://www.instagram.com/hyunsu._.1221/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyunsu._.1221//"/></a>
-
+[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=azxcv1768)](https://solved.ac/azxcv1768)
