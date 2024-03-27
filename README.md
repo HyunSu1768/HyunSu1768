@@ -3,7 +3,7 @@
 저는 항상 열정과 목표를 가지고 공부에 임하며 하나의 기술을 깊게 공부하는것을 좋아합니다.
 
 My name is Hyeonsoo Boo, and I am studying DevOps. <br>
-I always study with passion and purpose, and I like to try various skills.
+I approach my studies with passion and purpose, and I like to study a single skill diligently.
 
 [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=azxcv1768)](https://solved.ac/azxcv1768)
 #
