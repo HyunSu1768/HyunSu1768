@@ -13,3 +13,5 @@ Kubernetes
 - https://github.com/kubernetes/kubernetes/pull/123336
 
 
+Percona
+- https://github.com/percona/k8spsmdb-docs/pull/193
